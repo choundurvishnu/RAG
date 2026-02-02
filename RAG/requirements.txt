@@ -9,3 +9,8 @@ sentence-transformers
 pypdf
 python-dotenv
 ipykernel
+pandas
+pymudf
+ipywidgets
+jupyter
+tqdm
