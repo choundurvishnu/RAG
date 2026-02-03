@@ -10,7 +10,14 @@ pypdf
 python-dotenv
 ipykernel
 pandas
-pymudf
+PyMuPDF
 ipywidgets
 jupyter
 tqdm
+unstructured
+pdfminer
+python-docx
+docx2txt
+unstructured[xlsx]
+openpyxl
+jq
